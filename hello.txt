@@ -1,3 +1,2 @@
 Hello Artifactory and Sonar
 edited code
-to check cicd
